@@ -1,0 +1,35 @@
+REASEARCH 
+- What style of game you want to make
+- How will upgrades work 
+- How is it different than what is out there
+- How will we keep users engaged/ entertained
+- Timeframes
+- Map out complexities
+-----
+1) Get Textures for the background 
+2) Learn how to cycle through textures on demand (on events)
+3) Boss textures every X amount of levels
+
+-----------
+
+4) Spawn on tap at the bottom of the screen
+5) Destroy on hit at the top of the screen 
+
+------------
+
+6) Implement simple enemies at the top of the screen(just circles for now)
+7) destroy tapped stuff at the top of the screen on hit with circles
+
+------------
+
+8) Animate on destruction of boss/enemy
+9) Animate on destruction of unit
+
+------------
+
+10) Implement reward system, get rewards on destruction of enemy
+11) Implement a simple menu
+
+-------------
+
+12) Purchase upgrades?
